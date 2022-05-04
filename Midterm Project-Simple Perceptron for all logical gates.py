@@ -1,7 +1,6 @@
 #This program makes/trains perceptron neural network for any given gate by the user except for 'NOT'.
 #Student Name: Maral Dezfoulizadeh
 #Email: maraldezfoulizadeh78@gmail.com
-#Student Number: 960101210027
 
 import random
 
